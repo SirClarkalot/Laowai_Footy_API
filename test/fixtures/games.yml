@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  game_date: 2023-04-13
+  game_location: MyString
+  final_score: 1
+  game_type: MyString
+
+two:
+  game_date: 2023-04-13
+  game_location: MyString
+  final_score: 1
+  game_type: MyString
